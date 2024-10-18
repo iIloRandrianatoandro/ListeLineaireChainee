@@ -1,3 +1,6 @@
+"
+C est une classe creant une liste lineaire chainee composee de plusieurs cellules relies entre elles
+"
 Class {
 	#name : #ListeLineaireChainee,
 	#superclass : #Object,
